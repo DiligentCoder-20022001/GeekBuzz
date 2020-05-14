@@ -181,13 +181,13 @@ h3{
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="aboutus.html">Home</a>
+              <a class="nav-link" href="home.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About us</a>
+              <a class="nav-link" href="#pricing">About us</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link" href="#">Sponsors</a>
+              <a class="nav-link" href="#testimonials">Features</a>
             </li>
           </ul>
         </div>
