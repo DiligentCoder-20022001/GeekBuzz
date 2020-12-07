@@ -5,7 +5,7 @@ GeekBuzz is a quiz site presently containing quizzes on topics -
   1. Networks and security
   2. PHP
   3. MySQL
- There is an admin login as well as a user login. Admin can add new quizzes and delete anything( quizzes or users ). All the quizzes are  timed with each question given one minute. After the quiz users can immedietly view results and the score of last attempt of that particular quiz is uploaded in the dashboard. He/She can compete with his/her peers by seeing their respective rank. In the admin site also is a facility of remainder so that admin .i.e. the developer starts from where he left the work.
+ There is an admin login as well as a user login. Admin can add new quizzes and delete anything( quizzes or users ). All the quizzes are  timed with each question given one minute. After the quiz users can immedietly view results and the score of last attempt of that particular quiz is uploaded in the dashboard. He/She can compete with his/her peers by seeing their respective rank. Please check the images of the project in the file GeekBuzz.docx
  
  IMPLEMENTATION
  __________________________________________________________________________________________________________________________________________
